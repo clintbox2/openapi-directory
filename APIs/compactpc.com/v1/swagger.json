@@ -1,0 +1,26 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "CompactPC Products API",
+    "version": "1.0.0",
+    "description": "Provides access to CompactPC product information in JSON format, including specifications, images, and application areas."
+  },
+  "servers": [
+    {
+      "url": "https://www.compactpc.com.tw/api/v1"
+    }
+  ],
+  "paths": {
+    "/products.json": {
+      "get": {
+        "summary": "Get product list",
+        "description": "Returns a list of CompactPC products with specifications, categories, and images.",
+        "responses": {
+          "200": {
+            "description": "Successful response"
+          }
+        }
+      }
+    }
+  }
+}

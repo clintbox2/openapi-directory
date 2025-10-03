@@ -1,0 +1,7 @@
+This PR adds the CompactPC Products API to the APIs.guru directory.
+
+- Base URL: https://www.compactpc.com.tw/api/v1
+- Endpoint: /products.json
+- Version: v1
+- Contact: info@compactpc.com.tw
+- swagger.json raw URL: https://raw.githubusercontent.com/clintbox2/openapi-directory/refs/heads/main/APIs/compactpc.com/v1/swagger.json

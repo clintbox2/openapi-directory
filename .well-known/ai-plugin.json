@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "DMP EBOX API",
+  "name_for_model": "compactpc",
+  "description_for_human": "查詢 DMP EBOX 工業電腦產品與技術資料的 API。",
+  "description_for_model": "Provides structured access to DMP EBOX industrial computer product data and specifications.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://raw.githubusercontent.com/clintbox2/openapi-directory/main/APIs/compactpc.com/v1/openapi.yaml"
+  },
+  "logo_url": "https://www.compactpc.com.tw/images/logo.png",
+  "contact_email": "info@compactpc.com.tw",
+  "legal_info_url": "https://www.compactpc.com.tw"
+}

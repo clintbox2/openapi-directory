@@ -1,4 +1,4 @@
-# OpenAPI Directory
+# OpenAPI Directory 
 
 This repository contains public OpenAPI definitions for various APIs.
 

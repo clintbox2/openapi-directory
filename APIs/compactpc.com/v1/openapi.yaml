@@ -1,16 +1,7 @@
-info:
-  x-apisguru-categories:
-    - iot
-    - hardware
-    - industrial
-  contact:
-    email: info@compactpc.com.tw
-  description: >
-    The CompactPC Products API provides public access to product specifications in JSON format.
-    It includes product IDs, CPU, memory, storage, dimensions, certifications, and application areas.
-  title: CompactPC Products API
-  version: "1.0.0"
-  x-logo:
-    url: https://www.compactpc.com.tw/logo.png
-    backgroundColor: "#FFFFFF"
-swaggerUrl: https://raw.githubusercontent.com/clintbox2/openapi-directory/add-compactpc-api-v1/APIs/compactpc.com/v1/swagger.json
+This PR adds the CompactPC Products API to the APIs.guru directory.
+
+- Base URL: https://www.compactpc.com.tw/api/v1
+- Endpoint: /products.json
+- Version: v1
+- Contact: info@compactpc.com.tw
+- swagger.json raw URL: https://raw.githubusercontent.com/clintbox2/openapi-directory/refs/heads/main/APIs/compactpc.com/v1/swagger.json

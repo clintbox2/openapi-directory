@@ -1,3 +1,10 @@
+# Deprecated Repository
+
+This repository is deprecated.
+
+Please refer to the official CompactPC OpenAPI directory:
+https://github.com/clintbox2/compactpc-openapi-directory
+
 # OpenAPI Directory 
 
 This repository contains public OpenAPI definitions for various APIs.

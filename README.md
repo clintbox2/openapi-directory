@@ -1,30 +1,34 @@
-# Deprecated Repository
+# ⚠️ Archived Repository
 
-This repository is deprecated.
+This repository has been **archived** and is no longer actively maintained.
 
-Please refer to the official CompactPC OpenAPI directory:
-https://github.com/clintbox2/compactpc-openapi-directory
+## Why is this repository archived?
 
-# OpenAPI Directory 
+This repository was part of earlier experiments or transitional implementations
+during the development of CompactPC public APIs and OpenAPI specifications.
 
-This repository contains public OpenAPI definitions for various APIs.
+To avoid confusion and duplication, this repository is now kept **read-only**
+for historical reference only.
 
-## 📘 Available APIs
+## Official & Active Resources
 
-### 🖥️ CompactPC API v1
-- **OpenAPI (YAML)**: [openapi.yaml](https://raw.githubusercontent.com/clintbox2/openapi-directory/main/APIs/compactpc.com/v1/openapi.yaml)  
-- **Swagger (JSON)**: [swagger.json](https://raw.githubusercontent.com/clintbox2/openapi-directory/main/APIs/compactpc.com/v1/swagger.json)
+Please refer to the following **official and actively maintained sources**:
 
-### 📄 Description
-This API provides structured information for CompactPC products, including industrial computers, fanless PCs, and embedded solutions.
+### 🌐 Runtime API (Canonical)
+- https://www.compactpc.com.tw/api/openapi.json
 
-### 🧩 Format
-- **Specification**: OpenAPI 3.0  
-- **Auth**: None (public access)  
-- **Base URL**: `https://www.compactpc.com.tw/api/v1` *(example — adjust if different)*
+### 📦 Public Data & Schemas
+- https://github.com/clintbox2/compactpc-data
 
-### 🧠 For AI Integration
-This repository is designed to be discoverable by AI systems (ChatGPT, Claude, Gemini, etc.) through the OpenAPI specification link.
+### 📘 OpenAPI Specification (Documentation)
+- https://github.com/clintbox2/compactpc-openapi-directory
 
-If you are building AI Agents or ChatGPT Actions, you can directly reference this OpenAPI file:
+## Notes
 
+- This repository is **not** the runtime API server.
+- No new updates, issues, or pull requests will be accepted.
+- Existing content is preserved for reference purposes only.
+
+---
+
+© DMP Electronics Inc. / CompactPC
